@@ -1,0 +1,76 @@
+{
+  "services": [
+    {
+      "id": "hardware-repair",
+      "title": "Réparation Matérielle",
+      "icon": "fas fa-microchip",
+      "price": 59,
+      "priceUnit": "€",
+      "priceNote": "à partir de",
+      "lead": "Diagnostic et réparation de disques, cartes mères, alimentations, écrans et périphériques défectueux.",
+      "detail": "Composants professionnels et garantie pièces & main-d'œuvre pour un matériel fiable.",
+      "featured": false,
+      "badge": null
+    },
+    {
+      "id": "software-repair",
+      "title": "Dépannage Logiciel",
+      "icon": "fas fa-bug",
+      "price": 45,
+      "priceUnit": "€",
+      "priceNote": "à partir de",
+      "lead": "Élimination de virus et malwares, correction d'écrans bleus, lenteurs et erreurs système.",
+      "detail": "Sauvegarde préalable de vos données. Prise en charge Windows, macOS et Linux.",
+      "featured": true,
+      "badge": "Populaire"
+    },
+    {
+      "id": "data-recovery",
+      "title": "Récupération de Données",
+      "icon": "fas fa-database",
+      "price": 89,
+      "priceUnit": "€",
+      "priceNote": "à partir de",
+      "lead": "Restauration de fichiers perdus suite à panne, formatage ou corruption de supports.",
+      "detail": "Analyse gratuite et devis transparent avant toute intervention avancée.",
+      "featured": false,
+      "badge": null
+    },
+    {
+      "id": "preventive-maintenance",
+      "title": "Maintenance Préventive",
+      "icon": "fas fa-shield-alt",
+      "price": 39,
+      "priceUnit": "€",
+      "priceNote": "forfait",
+      "lead": "Nettoyage interne, mise à jour des pilotes, tests disque et optimisation globale.",
+      "detail": "Recommandé tous les 6 à 12 mois pour préserver performances et longévité.",
+      "featured": false,
+      "badge": null
+    },
+    {
+      "id": "infrastructure",
+      "title": "Infrastructure & Réseau IT",
+      "icon": "fas fa-network-wired",
+      "price": 65,
+      "priceUnit": "€",
+      "priceNote": "à partir de",
+      "lead": "Configuration de serveurs, routeurs, Wi-Fi professionnel, pare-feu et sauvegardes réseau.",
+      "detail": "Solutions sur mesure pour PME : sécurité, disponibilité et supervision.",
+      "featured": false,
+      "badge": "Pro"
+    },
+    {
+      "id": "remote-support",
+      "title": "Support Technique à Distance",
+      "icon": "fas fa-headset",
+      "price": 29,
+      "priceUnit": "€/h",
+      "priceNote": "tarif horaire",
+      "lead": "Assistance immédiate par connexion sécurisée : configuration, dépannage et conseils.",
+      "detail": "Intervention sous 24 h ouvrées. Première demi-heure offerte pour les clients fidèles.",
+      "featured": false,
+      "badge": "Rapide"
+    }
+  ]
+}
